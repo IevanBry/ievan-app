@@ -8,7 +8,7 @@ fun main() {
     /*----------------------------------------------*/
 
     val nilai1 = 3
-    val nilai2 = 5.5
+    val nilai2 = 2
 
     if (nilai1 < nilai2) {
         println("Nilai 3 lebih kecil daripada 5.5")
@@ -27,7 +27,7 @@ fun main() {
     }
     println("Ini contoh saja...")
 
-    val nilai = 10
+    val nilai = 11
     if (nilai < 0)
         println("Bilangan negatif")
     else {

@@ -7,7 +7,7 @@ fun main() {
 
     val hurufAZ: CharRange = 'A'..'Z'
     println("Ada huruf R kah antara A-Z : ${'R' in hurufAZ}")
-    println("ada angka ü kah antara a-z : ${'ü' in hurufAZ}")
+    println("ada huruf ü kah antara a-z : ${'ü' in hurufAZ}")
 
     for (angka: Int in 1..5) {
         print(" " + angka)

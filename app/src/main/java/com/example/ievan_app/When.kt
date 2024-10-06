@@ -1,7 +1,7 @@
 package com.example.ievan_app
 
 fun main() {
-    val huruf = 'E'
+    val huruf = 'B'
     when (huruf) {
         'A' -> println("A = huruf vokal")
         'E' -> println("E = huruf vokal")

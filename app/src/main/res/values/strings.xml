@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ievan_App</string>
+    <string name="berhasil_pindah_halaman">Berhasil Pindah Halaman</string>
+    <string name="hasil">hasil</string>
 </resources>

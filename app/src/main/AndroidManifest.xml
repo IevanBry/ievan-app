@@ -13,7 +13,13 @@
         android:theme="@style/Theme.Ievan_App"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".Kalkulator"
+            android:exported="false" />
+        <activity
+            android:name=".activity_kedua"
+            android:exported="false" />
+        <activity
+            android:name=".activity_login"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

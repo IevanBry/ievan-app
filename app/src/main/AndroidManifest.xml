@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Ievan_App"
         tools:targetApi="31">
         <activity
+            android:name=".activity_registrasi"
+            android:exported="false" />
+        <activity
             android:name=".Kalkulator"
             android:exported="false" />
         <activity

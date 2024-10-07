@@ -2,4 +2,9 @@
     <string name="app_name">Ievan_App</string>
     <string name="berhasil_pindah_halaman">Berhasil Pindah Halaman</string>
     <string name="hasil">hasil</string>
+    <string name="show_snack_bar">Show Snack Bar</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="login_page">login Page</string>
+    <string name="registrasi">Registrasi</string>
 </resources>
